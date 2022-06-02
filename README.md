@@ -1,4 +1,4 @@
-Equipo de trabajo PV
+Equipo de trabajo Programacion Visual.
 
 Cosme Santes Carlos Gerardo - 1321124250
 
